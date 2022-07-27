@@ -1,0 +1,1 @@
+Vertex function for Wave is "sin(x)+|sin(x)|"
